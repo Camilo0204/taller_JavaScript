@@ -1,0 +1,15 @@
+section {
+    background-image: url("fallout-fallout-4.jpg");
+       }
+footer{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(14, 192, 2);
+}
+.borde{
+    border:solid 1px black;
+      }
+h1{
+    border-radius: 10%;
+    color: yellowgreen;
+        
+}              

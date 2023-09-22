@@ -1,0 +1,11 @@
+.borde{
+    border:solid 1px black;
+
+  }
+div.borde { 
+    border-top: 6px solid #C00; 
+    border-left: 6px solid green; 
+}  
+#colorpag{
+    background-color: aqua;
+}
